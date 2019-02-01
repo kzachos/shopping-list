@@ -40,7 +40,7 @@ const fileManifest = [
   },
   {
     "url": "js/transpiled/index.js",
-    "revision": "3b5384eca25ad783829434ee190ecb58"
+    "revision": "158dcdc5485aab02db55e3cd2095ea40"
   },
   {
     "url": "js/transpiled/shared.js",
@@ -77,10 +77,6 @@ const fileManifest = [
   {
     "url": "resources/system.js",
     "revision": "c6b00872dc6e21c1327c08b0ba55e275"
-  },
-  {
-    "url": "sw1.js",
-    "revision": "0a3eac47771ce8e62d28908ee47a657f"
   },
   {
     "url": "/hoodie/client.js",

@@ -136,6 +136,19 @@ function init() {
         addItemToPage(item);
       }
     });
+
+  // hoodie extension from client - not working
+  var name = 'World';
+  hoodie.howdie(name)
+
+      .then(function (text) {
+        // alert(text)
+        console.log(text)
+      })
+
+      .catch(function (error) {
+        console.log(error.toString())
+      })
 }
 
 init();

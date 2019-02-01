@@ -1,4 +1,5 @@
 .hoodie
+.idea
 .now-publish.sh
 .babelrc
 dev-notes.md

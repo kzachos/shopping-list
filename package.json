@@ -9,6 +9,9 @@
   },
   "author": "Peter Mbanugo",
   "license": "ISC",
+  "hoodie": {
+    "port": 6001
+  },
   "dependencies": {
     "hoodie": "^28.2.2"
   },
